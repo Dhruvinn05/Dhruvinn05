@@ -35,11 +35,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruvin-bhimani-99bbb835a/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-View%20Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/dhruvinbhimani21)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Dhruvin_05/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/dhruvin_bhimani)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/dhruvin_bhimani)<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="30px" alt="Hand Shake Emoji"/>
 
 
 
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="30px" alt="Hand Shake Emoji"/>
+  
 
 
 
